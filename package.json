@@ -7,9 +7,14 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.3.1",
+<<<<<<< HEAD
     "react-chessboard": "^4.6.0",
     "react-dom": "^18.3.1",
     "react-scripts": "^5.0.1",
+=======
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+>>>>>>> 6f75896f3daa897cadf2fdbc755277cc3584a61c
     "web-vitals": "^2.1.4"
   },
   "scripts": {
